@@ -5,7 +5,7 @@ namespace Kriosmane\ViesApi\Providers;
 use Illuminate\Support\ServiceProvider;
 use Kriosmane\ViesApi\ViesApi;
 
-class OpenStreetMapServiceProvider extends ServiceProvider
+class ViesApiServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any application services.
